@@ -1,0 +1,5 @@
+<linker>
+  <assembly fullname="ConditionalExpression">
+    <type fullname="PlayMaker.ConditionalExpression.ConditionalExpression" preserve="all" />
+  </assembly>
+</linker>
